@@ -1,0 +1,4 @@
+catatan
+
+hari ini saya belajar git
+ini file pertama saya belajar git
